@@ -3,8 +3,8 @@ Every programming assignment / take home exam I've done while studying computer 
 
 More detailed information about each assignment can be found in the folders in pdf form.
 
-CENG111 - Introduction to computer engineering concepts (also Python)
+**CENG111** - Introduction to computer engineering concepts (also Python)
 
-CENG140 - C Programming
+**CENG140** - C Programming
 
-CENG213 - Data Structures (With C++)
+**CENG213** - Data Structures (With C++)
