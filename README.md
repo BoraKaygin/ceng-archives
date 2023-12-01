@@ -8,3 +8,5 @@ More detailed information about each assignment can be found in the folders in p
 **CENG140** - C Programming
 
 **CENG213** - Data Structures (With C++)
+
+**CENG242** - Programming Language Concepts
