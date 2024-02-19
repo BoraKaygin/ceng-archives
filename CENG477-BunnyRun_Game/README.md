@@ -1,4 +1,4 @@
-![](https://github.com/BoraKaygin/ceng-archives/edit/main/CENG477-BunnyRun_Game/BunnyRunDemo.gif)
+![](https://github.com/BoraKaygin/ceng-archives/blob/main/CENG477-BunnyRun_Game/BunnyRunDemo.gif)
 
 In order to play, run the executable in the BunnyRun folder through the terminal.
 
