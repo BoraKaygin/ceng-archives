@@ -1,9 +1,10 @@
 ## Usage
 - If needed, head into the Rasterization folder and compile program by using the "make" command in the terminal
 - (On Windows) Run the rasterizer by using:
-'''
+
+```
 ./rasterizer.exe ./inputs/<input_name>.xml
-'''
+```
 
 Will produce output image in ppm format.
 - if the scene file includes multiple cameras, will produce multiple outputs.
