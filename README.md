@@ -11,4 +11,6 @@ More detailed information about each assignment can be found in the folders in p
 
 **CENG242** - Programming Language Concepts
 
+**CENG351** - Data Management & File Structures
+
 **CENG477** - Introduction to Computer Graphics
